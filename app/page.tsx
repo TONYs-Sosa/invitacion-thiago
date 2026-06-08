@@ -125,7 +125,7 @@ export default function InvitacionDinoCompleta() {
           </div>
           <div className="order-1 md:order-2 flex justify-center">
             <img 
-              src="https://png.pngtree.com/png-vector/20241211/ourlarge/pngtree-cute-dinosaur-wearing-party-hat-clipart-png-image_14715479.png" 
+              src="https://img.freepik.com/vector-premium/feliz-cumpleanos-dinosaurio-pastel-fiesta-feliz-dino-clipart_43314-2503.jpg" 
               alt="Thiago Dino" 
               className="w-64 h-64 md:w-80 md:h-80 object-contain drop-shadow-2xl animate-bounce"
               style={{ animationDuration: '3s' }}
