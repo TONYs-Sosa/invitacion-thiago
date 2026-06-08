@@ -61,7 +61,7 @@ export default function InvitacionDinoCompleta() {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat scale-105 transition-transform duration-[10000ms] hover:scale-110"
           style={{ 
-            backgroundImage: "url('https://www.gamewallpapers.com/wallpapers_slechte_compressie/wallpaper_jurassic_park_survival_01_1920x1080.jpg')",
+            backgroundImage: "url('https://wallpapers.com/images/high/majestic-view-of-jurassic-park-in-striking-4k-resolution-avp20zj7edhqfzbp.webp')",
           }}
         >
           <div className="absolute inset-0 bg-emerald-950/70 backdrop-blur-[2px]"></div>
