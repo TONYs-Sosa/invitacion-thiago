@@ -184,7 +184,7 @@ export default function InvitacionDinoCompleta() {
                 <Search className="w-8 h-8 text-amber-600" />
               </div>
               <h3 className="text-2xl font-black text-emerald-900 mb-3">Cacería de Fósiles</h3>
-              <p className="text-emerald-700 font-medium">¡Busca los huesos perdidos en el arenero gigante!</p>
+              <p className="text-emerald-700 font-medium">¡Busca los huesos perdidos en la alberca!</p>
             </div>
 
             <div className="bg-white p-8 rounded-3xl shadow-md border border-emerald-50 text-center hover:-translate-y-2 transition-transform">
@@ -199,8 +199,8 @@ export default function InvitacionDinoCompleta() {
               <div className="w-16 h-16 bg-rose-100 rounded-full flex items-center justify-center mx-auto mb-6">
                 <Smile className="w-8 h-8 text-rose-500" />
               </div>
-              <h3 className="text-2xl font-black text-emerald-900 mb-3">Pinta-Dinos</h3>
-              <p className="text-emerald-700 font-medium">Transforma tu cara en tu dinosaurio favorito.</p>
+              <h3 className="text-2xl font-black text-emerald-900 mb-3">Lluvia de Meteoritos</h3>
+              <p className="text-emerald-700 font-medium">¡Ayuda a Thiago a romper la piñata para descubrir todas las sorpresas prehistóricas!</p>
             </div>
 
           </div>
@@ -240,7 +240,7 @@ export default function InvitacionDinoCompleta() {
               <Shirt className="w-8 h-8 text-emerald-600 flex-shrink-0 mt-1" />
               <div>
                 <h4 className="text-xl font-black text-emerald-900 mb-2">Código de Vestimenta</h4>
-                <p className="text-emerald-700 font-medium">Ropa cómoda para correr y explorar por la selva.</p>
+                <p className="text-emerald-700 font-medium"> Libre.</p>
               </div>
             </div>
             <div className="flex items-start gap-4 p-6 bg-amber-50/50 rounded-2xl">
@@ -260,44 +260,7 @@ export default function InvitacionDinoCompleta() {
           </div>
         </div>
       </section>
-
-      {/* --- MENÚ PREHISTÓRICO --- */}
-      <section className="py-20 bg-emerald-900/5">
-        <div className="max-w-6xl mx-auto px-6">
-          <h2 className="text-4xl md:text-5xl font-black text-center text-emerald-900 mb-16 font-serif">Menú Prehistórico</h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            
-            <div className="bg-white rounded-3xl overflow-hidden shadow-lg border border-emerald-50 group">
-              <div className="h-48 overflow-hidden">
-                <img src="http://www.julieseatsandtreats.com/wp-content/uploads/2019/05/Plate-of-Dino-Buddies.jpg" alt="Dino Nuggets" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
-              </div>
-              <div className="p-6 text-center">
-                <h3 className="text-xl font-black text-emerald-900">Dino Nuggets</h3>
-              </div>
-            </div>
-
-            <div className="bg-white rounded-3xl overflow-hidden shadow-lg border border-emerald-50 group">
-              <div className="h-48 overflow-hidden">
-                <img src="https://andreasrecipes.com/wp-content/uploads/2009/06/Volcano_birthday_cake1-2-500x500.jpg" alt="Pastel Volcán" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
-              </div>
-              <div className="p-6 text-center">
-                <h3 className="text-xl font-black text-emerald-900">Pastel Volcán</h3>
-              </div>
-            </div>
-
-            <div className="bg-white rounded-3xl overflow-hidden shadow-lg border border-emerald-50 group">
-              <div className="h-48 overflow-hidden">
-                <img src="https://www.imthecheftoo.com/cdn/shop/articles/kid_friendly_luau_snacks_easy_tropical_treats.webp" alt="Fruta Tropical" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
-              </div>
-              <div className="p-6 text-center">
-                <h3 className="text-xl font-black text-emerald-900">Fruta Tropical</h3>
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </section>
-
+      
       {/* --- DETALLES DE RECEPCIÓN --- */}
       <section className="py-20 bg-white">
         <div className="max-w-3xl mx-auto px-6">
@@ -310,19 +273,19 @@ export default function InvitacionDinoCompleta() {
               
               <div className="bg-white p-6 rounded-2xl shadow-sm">
                 <p className="text-sm uppercase tracking-widest text-emerald-600 font-bold mb-2">La Fecha</p>
-                <p className="text-xl font-black text-emerald-900">Sábado 20 de Junio, 2026</p>
+                <p className="text-xl font-black text-emerald-900">Viernes 21 de Agosto, 2026</p>
                 <div className="flex items-center justify-center gap-2 mt-2">
                   <Clock className="w-5 h-5 text-amber-500" />
-                  <span className="font-bold text-lg">Hora: 14:00 hrs</span>
+                  <span className="font-bold text-lg">Hora: 06:30 PM </span>
                 </div>
               </div>
 
               <div className="bg-white p-6 rounded-2xl shadow-sm">
                 <p className="text-sm uppercase tracking-widest text-emerald-600 font-bold mb-2">El Valle Dino</p>
-                <p className="text-xl font-black text-emerald-900">Salón de Eventos "El Dorado"</p>
-                <p className="text-md text-emerald-700/80 mt-1">Puerto de San Nicolás, Timilpan</p>
+                <p className="text-xl font-black text-emerald-900">Salón infantil de dinosaurios Dinobrije</p>
+                <p className="text-md text-emerald-700/80 mt-1">Ecatepec de Morelos, Estado de México</p>
                 <a 
-                  href="https://maps.app.goo.gl/8gme7y33FyUAVu2k9" 
+                  href="https://maps.app.goo.gl/ARoi1rCsoYXP6SK46" 
                   target="_blank"
                   rel="noreferrer"
                   className="mt-6 inline-flex items-center px-6 py-3 bg-emerald-700 text-white font-bold text-xs tracking-widest uppercase rounded-xl hover:bg-emerald-800 transition-all shadow-md active:scale-95"
@@ -344,7 +307,7 @@ export default function InvitacionDinoCompleta() {
         </p>
         
         <a 
-          href="https://wa.me/5255555555?text=¡Hola!%20Confirmamos%20nuestra%20asistencia%20al%20cumpleaños%20de%20Thiago%20🦖%20¡Ahí%20nos%20vemos!" 
+          href="https://wa.me/525642994279?text=¡Hola!%20Confirmamos%20nuestra%20asistencia%20al%20cumpleaños%20de%20Thiago%20🦖%20¡Ahí%20nos%20vemos!" 
           target="_blank"
           rel="noreferrer"
           className="inline-flex items-center gap-3 bg-[#25D366] text-white px-8 md:px-12 py-5 rounded-full font-black text-sm tracking-widest shadow-[0_0_20px_rgba(37,211,102,0.4)] hover:shadow-[0_0_30px_rgba(37,211,102,0.6)] transition-all hover:scale-[1.03] active:scale-95"
@@ -357,7 +320,32 @@ export default function InvitacionDinoCompleta() {
           <p className="uppercase tracking-[0.4em] text-[11px] font-bold text-emerald-200">www.thiago2party.vercel.app</p>
         </div>
       </section>
-
+      
+{/* --- CREADO POR: INVITACIONES LUXUS --- */}
+      <section className="bg-[#111827] text-white py-12 px-6 text-center border-t border-slate-800">
+        <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6 bg-gray-900/50 p-6 md:p-8 rounded-[2rem] border border-slate-800 backdrop-blur-sm">
+          <div className="text-center md:text-left">
+            <div className="flex items-center justify-center md:justify-start gap-2 text-amber-400 font-bold tracking-widest text-xs uppercase mb-1">
+              <Sparkles className="w-4 h-4 animate-pulse" /> DISEÑO EXCLUSIVO
+            </div>
+            <h4 className="text-2xl font-black tracking-tight text-white font-serif">
+              Invitaciones Luxus
+            </h4>
+            <p className="text-gray-400 text-sm mt-1 font-medium max-w-md">
+              ¿Te gustó esta invitación interactiva? Sorprende a tus invitados en tu próximo evento con un diseño único y moderno.
+            </p>
+          </div>
+          <a 
+            href="https://wa.me/525574948894?text=¡Hola!%20Vi%20la%20invitación%20de%20Thiago%20y%20me%20gustaría%20cotizar%20una%20invitación%20personalizada%20con%20Invitaciones%20Luxus." 
+            target="_blank"
+            rel="noreferrer"
+            className="w-full md:w-auto inline-flex items-center justify-center gap-3 bg-amber-400 text-gray-900 px-6 py-4 rounded-xl font-black text-xs tracking-widest uppercase hover:bg-amber-300 transition-all active:scale-95 whitespace-nowrap shadow-lg shadow-amber-400/20"
+          >
+            <MessageCircle className="w-4 h-4 fill-gray-900" />
+            CREA TU INVITACIÓN AQUÍ
+          </a>
+        </div>
+      </section>
     </div>
   );
 }
