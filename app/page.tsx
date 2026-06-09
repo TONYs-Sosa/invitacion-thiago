@@ -304,7 +304,7 @@ export default function InvitacionDinoCompleta() {
       <section className="py-24 text-center px-6 bg-emerald-950 text-white rounded-t-[3rem]">
         <h2 className="text-4xl md:text-5xl font-black mb-6 text-amber-300 uppercase tracking-tight font-serif">¿Nos acompañas?</h2>
         <p className="max-w-md mx-auto text-emerald-100/90 font-medium mb-12 leading-relaxed text-lg">
-          Por favor, confirma tu asistencia antes del 15 de Junio para preparar suficientes suministros para exploradores.
+          Por favor, confirma tu asistencia para preparar suficientes suministros para exploradores.
         </p>
         
         <a 
