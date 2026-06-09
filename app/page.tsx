@@ -166,7 +166,7 @@ export default function InvitacionDinoCompleta() {
           </div>
           <div className="flex justify-center">
             <img 
-              src="https://i.etsystatic.com/51482842/r/il/1d2c0e/7111734593/il_570xN.7111734593_fmqz.jpg" 
+              src="/dinocumple.jpg" 
               alt="T-Rex Globos" 
               className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-3xl shadow-xl rotate-3"
             />
