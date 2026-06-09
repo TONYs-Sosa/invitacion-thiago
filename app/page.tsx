@@ -61,7 +61,8 @@ export default function InvitacionDinoCompleta() {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat scale-105 transition-transform duration-[10000ms] hover:scale-110"
           style={{ 
-            backgroundImage: "url('https://wallpapers.com/images/high/majestic-view-of-jurassic-park-in-striking-4k-resolution-avp20zj7edhqfzbp.webp')",
+           
+            backgroundImage: "url('/fondo-hero.jpg')",
           }}
         >
           <div className="absolute inset-0 bg-emerald-950/70 backdrop-blur-[2px]"></div>
