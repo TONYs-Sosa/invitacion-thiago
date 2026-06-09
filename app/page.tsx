@@ -185,7 +185,7 @@ export default function InvitacionDinoCompleta() {
                 <Search className="w-8 h-8 text-amber-600" />
               </div>
               <h3 className="text-2xl font-black text-emerald-900 mb-3">Cacería de Fósiles</h3>
-              <p className="text-emerald-700 font-medium">¡Busca los huesos perdidos en la alberca!</p>
+              <p className="text-emerald-700 font-medium">¡Busca los huesos perdidos en la alberca de pelotas!</p>
             </div>
 
             <div className="bg-white p-8 rounded-3xl shadow-md border border-emerald-50 text-center hover:-translate-y-2 transition-transform">
