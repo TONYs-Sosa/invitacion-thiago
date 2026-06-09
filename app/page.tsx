@@ -53,7 +53,7 @@ export default function InvitacionDinoCompleta() {
     <div className="min-h-screen bg-[#f4f9f4] text-[#2c4a22] font-sans selection:bg-green-200 overflow-x-hidden">
       
       <audio ref={audioRef} loop>
-        <source src="/song.mp3" type="audio/mpeg" />
+        <source src="/song.MP3" type="audio/mpeg" />
       </audio>
 
       {/* --- HERO --- */}
