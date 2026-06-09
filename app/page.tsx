@@ -126,7 +126,7 @@ export default function InvitacionDinoCompleta() {
           </div>
           <div className="order-1 md:order-2 flex justify-center">
             <img 
-              src="/image1.jpg" 
+              src="/image1.jpeg" 
               alt="Thiago Dino" 
               className="w-64 h-64 md:w-80 md:h-80 object-contain drop-shadow-2xl animate-bounce"
               style={{ animationDuration: '3s' }}
@@ -140,7 +140,7 @@ export default function InvitacionDinoCompleta() {
         <div className="max-w-5xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
           <div className="rounded-[3rem] overflow-hidden shadow-2xl border-4 border-white">
             <img 
-              src="/image2.jpg" 
+              src="/image2.jpeg" 
               alt="Decoración Globos" 
               className="w-full h-full object-cover"
             />
