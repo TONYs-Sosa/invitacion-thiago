@@ -28,7 +28,7 @@ export default function InvitacionDinoCompleta() {
 
   useEffect(() => {
     // Fecha actualizada al 20 de Junio de 2026 a las 14:00 hrs
-    const targetDate = new Date("2026-06-20T14:00:00").getTime();
+    const targetDate = new Date("2026-08-21T18:30:00").getTime();
     
     const interval = setInterval(() => {
       const now = new Date().getTime();
