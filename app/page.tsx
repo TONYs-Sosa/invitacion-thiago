@@ -317,9 +317,7 @@ export default function InvitacionDinoCompleta() {
           CONFIRMAR ASISTENCIA
         </a>
 
-        <div className="mt-24 opacity-50">
-          <p className="uppercase tracking-[0.4em] text-[11px] font-bold text-emerald-200">www.thiago2party.vercel.app</p>
-        </div>
+     
       </section>
       
 {/* --- CREADO POR: INVITACIONES LUXUS --- */}
