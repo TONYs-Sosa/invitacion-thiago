@@ -28,7 +28,7 @@ export default function InvitacionDinoCompleta() {
 
   useEffect(() => {
     // Fecha actualizada al 20 de Junio de 2026 a las 14:00 hrs
-    const targetDate = new Date("2026-08-21T18:30:00").getTime();
+    const targetDate = new Date("2026-08-21T17:30:00").getTime();
     
     const interval = setInterval(() => {
       const now = new Date().getTime();
@@ -277,7 +277,8 @@ export default function InvitacionDinoCompleta() {
                 <p className="text-xl font-black text-emerald-900">Viernes 21 de Agosto, 2026</p>
                 <div className="flex items-center justify-center gap-2 mt-2">
                   <Clock className="w-5 h-5 text-amber-500" />
-                  <span className="font-bold text-lg">Hora: 06:30 PM </span>
+                  <span className="font-bold text-lg">Hora: 05:30 PM. Se puntual para empezar con las dinoactividades 🙂</span>
+                  
                 </div>
               </div>
 
